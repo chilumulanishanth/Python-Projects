@@ -1,2 +1,0 @@
-a=set()
-input("Enter theri fovurite language")
